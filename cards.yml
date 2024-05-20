@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Cards Dev (from filesystem)"
+  contactDetails:
+    name: "Dev Support Lead"
+    email: "stog@gmail.com"
+  onCallSupport:
+    - (+65) 1234 5678
+    - (+65) 9876 5432
+    - "{cipher}be1e7f0ab3fc532d12982ddde9c39174d31eb90ea6e1177193aecd567df15743"
