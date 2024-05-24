@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-accounts:
+loans:
   message: "Loans QA (from filesystem)"
   contactDetails:
     name: "QA Support Lead"
